@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //设置点击事件
         btn_show.setOnClickListener(this);
         //通过Studio上传
-
+        btn_main.setText("asadfsdf");
     }
 
     @Override
