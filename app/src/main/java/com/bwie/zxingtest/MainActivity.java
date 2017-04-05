@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn_main.setOnClickListener(this);
         //设置点击事件
         btn_show.setOnClickListener(this);
+        //通过Studio上传
 
     }
 
